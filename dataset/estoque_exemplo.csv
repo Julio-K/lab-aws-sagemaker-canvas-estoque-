@@ -1,0 +1,4 @@
+data,produto,estoque_atual,vendas_dia,dias_para_reposicao,estoque_futuro
+2025-01-01,Mouse,50,5,7,45
+2025-01-02,Teclado,30,3,5,27
+2025-01-03,Monitor,20,2,10,18
