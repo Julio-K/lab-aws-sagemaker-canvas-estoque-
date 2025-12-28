@@ -123,4 +123,5 @@ Este repositório completa o desafio proposto pela DIO, documentando todo o flux
 ---
 
 ## ✨ Autor
+Agradeço ao **Filipe** por ter disponibilizado o projeto.
 Projeto desenvolvido por **Filipe** como parte dos estudos em AWS & Machine Learning.
